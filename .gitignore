@@ -1,0 +1,21 @@
+
+# node_modules
+/client/node_modules
+/server/node_modules
+
+# log
+/client/npm_debug.log
+/server/npm_debug.log
+
+# testing
+/client/coverage
+
+# next.js
+/client/.next/
+/client/out/
+
+# production
+/client/build
+
+# vercel
+/client/.vercel
