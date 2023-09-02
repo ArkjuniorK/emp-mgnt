@@ -1,6 +1,6 @@
 ## Employee Management App
 
-This project is created using `client-server` architecture where the client and server is seperated.
+This project was created using `client-server` architecture which seperated the client and server.
 Often those two even lived in different repository, but since this project just for test purpose
 then it's okay to keep both. Here the stack used to build this project:
 
